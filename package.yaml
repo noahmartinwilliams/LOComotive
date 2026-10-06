@@ -47,7 +47,7 @@ executables:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - loc-hs
+    - LOComotive
 
 tests:
   loc-hs-test:
@@ -58,4 +58,4 @@ tests:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - loc-hs
+    - LOCoomotive
